@@ -1,0 +1,2 @@
+net.redpipe.weld.vertx.servicediscovery.ServiceDiscoveryExtension
+net.redpipe.weld.vertx.servicediscovery.ServiceDiscoveryClientExtension
